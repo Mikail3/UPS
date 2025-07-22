@@ -1,0 +1,27 @@
+2025-07-22 14:06:46,606 - Fout bij register 0x2006: Modbus Error: [Input/Output] Modbus Error: [Invalid Message] No response received, expected at least 8 bytes (0 received)
+2025-07-22 14:06:49,621 - Fout bij register 0x2007: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 14:06:52,638 - Fout bij register 0x200a: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 14:06:55,657 - Fout bij register 0x200b: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 14:06:58,691 - Fout bij register 0x200c: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 14:07:01,709 - Fout bij register 0x200d: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 14:07:04,740 - Fout bij register 0x200f: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 15:26:51,990 - ERROR - Connection to (127.0.0.1, 502) failed: [WinError 10061] Kan geen verbinding maken omdat de doelcomputer de verbinding actief heeft geweigerd
+2025-07-22 15:26:51,991 - ERROR - Connection to (127.0.0.1, 502) failed.
+2025-07-22 15:27:22,480 - ERROR - Exception while reading address 8198: 'ModbusIOException' object has no attribute 'registers'
+2025-07-22 15:27:25,511 - ERROR - Exception while reading address 8199: 'ModbusIOException' object has no attribute 'registers'
+2025-07-22 15:27:28,515 - ERROR - Exception while reading address 8202: 'ModbusIOException' object has no attribute 'registers'
+2025-07-22 15:27:31,544 - ERROR - Exception while reading address 12288: 'ModbusIOException' object has no attribute 'registers'
+2025-07-22 15:29:55,565 - Fout bij register 0x2006: Modbus Error: [Input/Output] Modbus Error: [Invalid Message] No response received, expected at least 8 bytes (0 received)
+2025-07-22 15:29:58,579 - Fout bij register 0x2007: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 15:30:01,601 - Fout bij register 0x200a: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 15:30:04,625 - Fout bij register 0x200b: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 15:30:07,630 - Fout bij register 0x200c: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 15:30:10,650 - Fout bij register 0x200d: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 15:30:13,675 - Fout bij register 0x200f: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 15:30:29,579 - Fout bij register 0x2006: Modbus Error: [Input/Output] Modbus Error: [Invalid Message] No response received, expected at least 8 bytes (0 received)
+2025-07-22 15:30:32,597 - Fout bij register 0x2007: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 15:30:35,616 - Fout bij register 0x200a: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 15:30:38,634 - Fout bij register 0x200b: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 15:30:41,649 - Fout bij register 0x200c: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 15:30:44,678 - Fout bij register 0x200d: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+2025-07-22 15:30:47,684 - Fout bij register 0x200f: Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
